@@ -1,6 +1,6 @@
 {
   "name": "my-test-modal",
-  "version": "6.1.0",
+  "version": "1.0.0",
   "description": "A simple responsive and accessible react modal",
   "license": "MIT",
   "main": "dist/index.js",
@@ -37,7 +37,7 @@
     "mobile",
     "flex"
   ],
-  "repository": "git+https://U4EA22@bitbucket.org/U4EA22/my-test-modal.git",
+  "repository": "git+https://github.com/U-4-E-A/my-test-modal.git",
   "author": "Léo Pradel",
   "bugs": {
     "url": "https://github.com/pradel/my-test-modal/issues"
